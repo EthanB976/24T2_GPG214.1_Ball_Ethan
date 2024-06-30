@@ -1,0 +1,53 @@
+ManifestFileVersion: 0
+CRC: 887257836
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11412b49db085192e8fb2e90b912571a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 90566071dd26e2fe8a83261b550a255d
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 11412b49db085192e8fb2e90b912571a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 61
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: cd6afc566cc5f324dba6a13a6e1e77e9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa8c6515e209a0e4882cb0365dc3a37c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Asset Bundle/Sounds/Coin3.wav
+- Assets/Prefabs/Coins.prefab
+- Assets/Asset Bundle/Textures/Knight2.png
+- Assets/Prefabs/Player.prefab
+Dependencies: []
